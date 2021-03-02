@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Jaruwat Thongchana
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RNCAT&show_icons=true&theme=dark)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RNCAT&layout=compact&theme=dark)
+
 <!--
 **RNCAT/RNCAT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
