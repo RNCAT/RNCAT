@@ -24,7 +24,7 @@ My name is Jaruwat Thongchana.
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/programming/typescript.svg" width="50" /></a>
 <a href="https://deno.land/" title="Deno"><img src="icons/frameworks/deno.svg" width="50" /></a>
 <a href="https://dart.dev/" title="Dart"><img src="icons/programming/dart.svg" width="50" /></a>
-<a href="https://flutter.dev/" title="Flutter"><img src="icons/flutter.png" width="50" /></a>
+<a href="https://flutter.dev/" title="Flutter"><img src="icons/frameworks/flutter.png" width="50" /></a>
 <a href="https://www.jetbrains.com/go/" title="GoLand"><img src="icons/editors/goland.png" width="50" /></a>
 <a href="https://www.mongodb.com/" title="MongoDB"><img src="icons/databases/mongodb.svg" width="70" /></a>
 <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="icons/databases/postgresql.svg" width="50" /></a>
