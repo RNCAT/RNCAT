@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://media1.tenor.com/images/00c748542b64cc4fb7042016d30127a9/tenor.gif?itemid=21591225)  
+[comment]: ![](https://media1.tenor.com/images/00c748542b64cc4fb7042016d30127a9/tenor.gif?itemid=21591225)  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RNCAT&show_icons=true)
 
 **Currently working with:**
