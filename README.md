@@ -21,14 +21,11 @@
 
 <a href="https://www.docker.com/" title="Docker"><img src="icons/cloud/docker.svg" width="50" /></a>
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/programming/typescript.svg" width="50" /></a>
-<a href="https://deno.land/" title="Deno"><img src="icons/frameworks/deno.svg" width="50" /></a>
 <a href="https://dart.dev/" title="Dart"><img src="icons/programming/dart.svg" width="50" /></a>
 <a href="https://flutter.dev/" title="Flutter"><img src="icons/frameworks/flutter.png" width="50" /></a>
-<a href="https://www.jetbrains.com/go/" title="GoLand"><img src="icons/editors/goland.png" width="50" /></a>
 <a href="https://www.mongodb.com/" title="MongoDB"><img src="icons/databases/mongodb.svg" width="70" /></a>
 <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="icons/databases/postgresql.svg" width="50" /></a>
 <a href="https://aws.amazon.com/" title="AWS"><img src="icons/cloud/amazon.svg" width="50" /></a>
-<a href="https://cloud.google.com/" title="Google Cloud"><img src="icons/cloud/gcloud.svg" width="70" /></a>
 
 **Previously worked with:**
 
@@ -36,4 +33,3 @@
 <a href="https://flask.palletsprojects.com/en/2.0.x/" title="Flask"><img src="icons/frameworks/flask.svg" width="50" /></a>
 <a href="https://www.php.net/" title="PHP"><img src="icons/programming/php.png" width="50" /></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="icons/programming/c.svg" width="50" /></a>
-<a href="https://www.java.com/en/" title="Java"><img src="icons/programming/java.svg" width="50" /></a>
