@@ -10,10 +10,8 @@
 <a href="https://nodejs.org/" title="Node.js"><img src="icons/frameworks/nodejs.svg" width="50" /></a>
 <a href="https://vuejs.org/" title="Vue.js"><img src="icons/frameworks/vuejs.svg" width="50" /></a>
 <a href="https://www.mysql.com/" title="MySQL"><img src="icons/databases/mysql.svg" width="50" /></a>
-<a href="https://redis.io/" title="Redis"><img src="icons/databases/redis.svg" width="50" /></a>
 <a href="https://www.heroku.com/" title="Heroku"><img src="icons/cloud/heroku.svg" width="50" /></a>
 <a href="https://firebase.google.com/" title="Firebase"><img src="icons/cloud/firebase.svg" width="50" /></a>
-<a href="https://github.com/" title="Github"><img src="icons/cloud/github.svg" width="50" /></a>
 <a href="https://git-scm.com/" title="Git"><img src="icons/others/git.svg" width="50" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/editors/vscode.svg" width="50" /></a>
 
@@ -28,6 +26,4 @@
 **Previously worked with:**
 
 <a href="https://www.python.org/" title="Python"><img src="icons/programming/python.svg" width="50" /></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" title="Flask"><img src="icons/frameworks/flask.svg" width="50" /></a>
-<a href="https://www.php.net/" title="PHP"><img src="icons/programming/php.png" width="50" /></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="icons/programming/c.svg" width="50" /></a>
