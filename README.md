@@ -11,7 +11,6 @@
 <a href="https://vuejs.org/" title="Vue.js"><img src="icons/frameworks/vuejs.svg" width="50" /></a>
 <a href="https://www.mysql.com/" title="MySQL"><img src="icons/databases/mysql.svg" width="50" /></a>
 <a href="https://www.heroku.com/" title="Heroku"><img src="icons/cloud/heroku.svg" width="50" /></a>
-<a href="https://firebase.google.com/" title="Firebase"><img src="icons/cloud/firebase.svg" width="50" /></a>
 <a href="https://git-scm.com/" title="Git"><img src="icons/others/git.svg" width="50" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/editors/vscode.svg" width="50" /></a>
 
@@ -22,6 +21,7 @@
 <a href="https://www.mongodb.com/" title="MongoDB"><img src="icons/databases/mongodb.svg" width="70" /></a>
 <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="icons/databases/postgresql.svg" width="50" /></a>
 <a href="https://aws.amazon.com/" title="AWS"><img src="icons/cloud/amazon.svg" width="50" /></a>
+<a href="https://firebase.google.com/" title="Firebase"><img src="icons/cloud/firebase.svg" width="50" /></a>
 
 **Previously worked with:**
 
