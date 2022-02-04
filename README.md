@@ -26,4 +26,4 @@
 **Previously worked with:**
 
 <a href="https://www.python.org/" title="Python"><img src="icons/programming/python.svg" width="50" /></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="icons/programming/c.svg" width="50" /></a>
+<a href="https://www.php.net/" title="PHP"><img src="icons/programming/php.png" width="50" /></a>
