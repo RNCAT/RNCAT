@@ -29,3 +29,4 @@
 <a href="https://www.php.net/" title="PHP"><img src="icons/programming/php.png" width="50" /></a>
 <a href="https://www.heroku.com/" title="Heroku"><img src="icons/cloud/heroku.svg" width="50" /></a>
 <a href="https://vuejs.org/" title="Vue.js"><img src="icons/frameworks/vuejs.svg" width="50" /></a>
+<a href="https://cloud.google.com/" title="GCP"><img src="icons/cloud/gcloud.svg" width="60" /></a>
