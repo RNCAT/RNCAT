@@ -1,32 +1,33 @@
-### Hi there 👋
+Hi 👋 My name is Jaruwat Thongchana
+===================================
 
-[comment]: ![](https://media1.tenor.com/images/00c748542b64cc4fb7042016d30127a9/tenor.gif?itemid=21591225)  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RNCAT&show_icons=true)
+Backend Developer
+-----------------
 
-**Currently working with:**
+* 🌍  I'm based in Thailand
+* ✉️  You can contact me at [jaruwat.works@gmail.com](mailto:jaruwat.works@gmail.com)
+* 🚀  I'm currently working on [Healthby](http://github.com/Healthby)
 
-<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/programming/typescript.svg" width="50" /></a>
-<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/programming/javascript.svg" width="50" /></a>
-<a href="https://nodejs.org/" title="Node.js"><img src="icons/frameworks/nodejs.svg" width="50" /></a>
-<a href="https://www.docker.com/" title="Docker"><img src="icons/cloud/docker.svg" width="50" /></a>
-<a href="https://www.postgresql.org/" title="PostgreSQL"><img src="icons/databases/postgresql.svg" width="50" /></a>
-<a href="https://www.mysql.com/" title="MySQL"><img src="icons/databases/mysql.svg" width="50" /></a>
-<a href="https://git-scm.com/" title="Git"><img src="icons/others/git.svg" width="50" /></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/editors/vscode.svg" width="50" /></a>
+### Skills
 
-**Learning:**
 
-<!-- <a href="https://www.mongodb.com/" title="MongoDB"><img src="icons/databases/mongodb.svg" width="70" /></a>
+<p align="left">
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
+</p>
 
-<a href="https://aws.amazon.com/" title="AWS"><img src="icons/cloud/amazon.svg" width="50" /></a> -->
-<a href="https://golang.org/" title="Golang"><img src="icons/programming/go.svg" width="50" /></a>
-<a href="https://firebase.google.com/" title="Firebase"><img src="icons/cloud/firebase.svg" width="50" /></a>
-<a href="https://reactjs.org" title="React"><img src="icons/frameworks/react.svg" width="50" /></a>
 
-**Previously worked with:**
+### Socials
 
-<a href="https://www.python.org/" title="Python"><img src="icons/programming/python.svg" width="50" /></a>
-<a href="https://www.php.net/" title="PHP"><img src="icons/programming/php.png" width="50" /></a>
-<a href="https://www.heroku.com/" title="Heroku"><img src="icons/cloud/heroku.svg" width="50" /></a>
-<a href="https://vuejs.org/" title="Vue.js"><img src="icons/frameworks/vuejs.svg" width="50" /></a>
-<a href="https://cloud.google.com/" title="GCP"><img src="icons/cloud/gcloud.svg" width="60" /></a>
+<p align="left"> <a href="https://www.dev.to/rennycat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/RNCAT" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jaruwat-thongchana-346971203" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@RennyCat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/AlpacaZeneca" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
