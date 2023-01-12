@@ -6,7 +6,7 @@ Backend Developer
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [jaruwat.works@gmail.com](mailto:jaruwat.works@gmail.com)
-* 🚀  I'm currently working on [Healthby](http://github.com/Healthby)
+* 🚀  I'm currently working at [Appsynth](https://appsynth.net/careers/)
 
 ### Skills
 
